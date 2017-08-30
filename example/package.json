@@ -12,6 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
     "react-social-icons": "^2.7.0"
+  },
+  "devDependencies": {
+    "browserify": "^14.4.0"
   }
 }

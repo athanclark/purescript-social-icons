@@ -13,6 +13,11 @@
     "purescript-records": "athanclark/purescript-records#214a78e65feda4328ab7245ed8edb10b9b8dd0d8",
     "purescript-react": "^4.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/athanclark/purescript-social-icons.git"
+  },
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
   }
